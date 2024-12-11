@@ -40,6 +40,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilay3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilay3&layout=compact&theme=radical)
 
+## Активность
+![Profile Views](https://komarev.com/ghpvc/?username=Ilay3&color=blue&style=flat-square)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilay3&theme=radical)
+
 ---
 
 ## 📫 Связаться со мной
